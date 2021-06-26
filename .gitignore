@@ -1,0 +1,6 @@
+**/raw*/**
+**/current/
+**/*.arrow
+**/*.pdf
+**/adj_mort/**
+**/*.fst
