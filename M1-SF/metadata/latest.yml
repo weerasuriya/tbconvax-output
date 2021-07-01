@@ -1,7 +1,7 @@
-job_commit: f64f9d21c1f9a961376601dc9578442d18b81086
+job_commit: 4a73beded026dd8eb1c096424225831b08756ece
 CMA: M1-SF
 seed_id: 2021-06-27-0038_M1-SF_seed
-start_time: 2021-06-27-0050
-JN: 2021-06-27-0050_M1-SF
-end_time: 2021-06-27-1851
-paramset_hash: 15f811243fe398e3abbe8301190af7bd
+start_time: 2021-06-30-1307
+JN: 2021-06-30-1307_M1-SF
+end_time: 2021-07-01-0329
+paramset_hash: cdfd38b1fab55d94e1b0c43ec57ab968
